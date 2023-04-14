@@ -11,3 +11,5 @@ https://srv02.dropload.io/v/01/00026/7a9stqy3hhon_h/%D0%9A%D0%BD%D0%B8%D0%B3%D0%
 https://srv02.dropload.io/v/01/00026/ug9987wt4o51_h/The.Cobbler.2014.BRRip.XviD.AC3-iFT.avi.mp4?t=oXzKcGdhly6fHuUEFxpQJ7-QHZhg-Cj471-4ChhWghg&s=1681452718&e=21600&f=131670&sp=3000&i=0.0
 #EXTINF:0 tvg-logo="https://softwareforcinema.com/f/movies/m/1/53c27f1b3c25a3a5bfcf9d3124beafc6.jpeg",Mummies / Приключението на мумиите
 https://srv02.dropload.io/v/01/00026/pmqxuyenyhib_h/Mummies.2023.WEBRip,XviD.BGAUDiO-SiSO.avi.mp4?t=LUavqj5pZBP8WF6LGh-we5JV5DvcYgC-yf1-In9ds88&s=1681462237&e=21600&f=131918&sp=3000&i=0.0
+#EXTINF:0 tvg-logo="https://cdn.ozone.bg/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/a/69f000209fe768e8a85cb5eb05669ef5/talasami-ood-dvd-31.jpg",Таласъми ООД / Monsters
+https://srv02.dropload.io/v/01/00026/11c9ybbjosrf_h/Monsters.Inc.2001.READNFO.MULTI.BRRip.x264.mkv.mp4?t=ue-YP3oZCdOCvSMVqAuT5SIl42MrO03JJm1t4yHwzms&s=1681462462&e=21600&f=131921&sp=3000&i=0.0
