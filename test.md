@@ -13,3 +13,9 @@ https://srv02.dropload.io/v/01/00026/ug9987wt4o51_h/The.Cobbler.2014.BRRip.XviD.
 https://srv02.dropload.io/v/01/00026/pmqxuyenyhib_h/Mummies.2023.WEBRip,XviD.BGAUDiO-SiSO.avi.mp4?t=LUavqj5pZBP8WF6LGh-we5JV5DvcYgC-yf1-In9ds88&s=1681462237&e=21600&f=131918&sp=3000&i=0.0
 #EXTINF:0 tvg-logo="https://cdn.ozone.bg/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/a/69f000209fe768e8a85cb5eb05669ef5/talasami-ood-dvd-31.jpg",Таласъми ООД / Monsters
 https://srv02.dropload.io/v/01/00026/11c9ybbjosrf_h/Monsters.Inc.2001.READNFO.MULTI.BRRip.x264.mkv.mp4?t=ue-YP3oZCdOCvSMVqAuT5SIl42MrO03JJm1t4yHwzms&s=1681462462&e=21600&f=131921&sp=3000&i=0.0
+#EXTINF:0 tvg-logo="https://egmontbulgaria.com/media/cache/fb_image_thumb/product-images/14/24/Tangled_Cover_Poland_NEW-1%20front%20copy1653610503.1575.jpg.jpeg?1653610503",Рапунцел и разбойникът 2010 Бг Аудио
+https://srv01.dropload.io/v/01/00026/clwdfp2izevp_h/wtangled.mkv.mp4?t=CLusPa5qvI99PBWI3IWVew18UsKN1svJkBmKHkbSZCA&s=1681465557&e=21600&f=131943&sp=3000&i=0.0
+#EXTINF:0 tvg-logo="https://cdn.baby.bg/media/catalog/product/cache/1/image/405x500/a4e40ebdc3e371adff845072e1c73f37/s/u/bba1336af30429155dd86486c9b90106/vsichki-na-sarf-blu-ray-30.jpg",Surf's Up  Всички на сърф 2007 BG Audio 
+https://srv04.dropload.io/v/01/00026/nqdwnlp27t1p_h/Surf's_Up_(2007)_[DVDRip]_[BG_Audio].avi.mp4?t=dFOm79VL-fKsIAGM4Dy0mfh3hhJ2nPMyViW4ydz07gc&s=1681465659&e=21600&f=131947&sp=3000&i=0.0
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/shrek/images/8/85/Shrek_2001_poster.jpg/revision/latest?cb=20201020072731",Shrek / Шрек (2001) BG Audio 
+https://srv01.dropload.io/v/01/00026/7r7hje4wk61w_h/Shrek_BG_Audio.avi.mp4?t=xApdYsXeRYPT-AUEhCDb3n_ST9_YqT75Yh9qv14eduI&s=1681465766&e=21600&f=131949&sp=3000&i=0.0
