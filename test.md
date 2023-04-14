@@ -24,4 +24,4 @@ https://srv01.dropload.io/v/01/00026/9xy9ibra8djl_h/Wrath.Of.Man.2021.BRRip.XviD
 #EXTINF:0 ,Na vseki kilometur 
 https://www.youtube.com/watch?v=e6MhlmuGyMI&t=4s
 #EXTINF:0 ,Test
-https://www.dropbox.com/s/0redfd8o89we30s/sample.avi?dl=0
+https://m.youtube.com/watch?v=uV61PpVrJWg
