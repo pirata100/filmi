@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://images.uncyclomedia.co/uncyclopedia/en/1/19/EMO_knows_Drama.png
+#EXTINF:0 tvg-logo="https://images.uncyclomedia.co/uncyclopedia/en/1/19/EMO_knows_Drama.png",Emo TV 
 rtsp://192.168.1.101:5000/emoytv
