@@ -19,3 +19,5 @@ https://srv01.dropload.io/v/01/00026/clwdfp2izevp_h/wtangled.mkv.mp4?t=CLusPa5qv
 https://srv04.dropload.io/v/01/00026/nqdwnlp27t1p_h/Surf's_Up_(2007)_[DVDRip]_[BG_Audio].avi.mp4?t=dFOm79VL-fKsIAGM4Dy0mfh3hhJ2nPMyViW4ydz07gc&s=1681465659&e=21600&f=131947&sp=3000&i=0.0
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/shrek/images/8/85/Shrek_2001_poster.jpg/revision/latest?cb=20201020072731",Shrek / Шрек (2001) BG Audio 
 https://srv01.dropload.io/v/01/00026/7r7hje4wk61w_h/Shrek_BG_Audio.avi.mp4?t=xApdYsXeRYPT-AUEhCDb3n_ST9_YqT75Yh9qv14eduI&s=1681465766&e=21600&f=131949&sp=3000&i=0.0
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/10aZTvGX8Fs/movieposter_en.jpg",Човек на гнева (Wrath of Man)
+https://srv01.dropload.io/v/01/00026/9xy9ibra8djl_h/Wrath.Of.Man.2021.BRRip.XviD.AC3-EVO.avi.mp4?t=0rIOGrI9U5shLRVxhkswucsuXtyrBPquLKy5QBFri2k&s=1681471068&e=21600&f=132034&sp=3000&i=0.0
