@@ -16,6 +16,6 @@ https://streamer103.neterra.tv/tiankov-orient/live.m3u8
 #EXTINF:0 Travel TV 
 https://streamer103.neterra.tv/travel/live.m3u8
 #EXTINF:0 Rio
-http://mediaset.sdasofia.org/animacii%20deca/65.Disney.Animation.With.BG.Audio/2011%20Rio/lycan-rio.avi
+http://185.223.160.3/Movie/2023/Hunt.Her.Kill.Her.2022/Hunt.Her.Kill.Her.2022.HDCAM.c1nem4.x264-SUNSCREEN.Sermovie.mkv
 #EXTINF:0 FILM TEST 
 http://185.223.160.3/Movie/2023/John.Wick.Chapter.4/John.Wick.Chapter.4.2023.HDCAM.x264.Sunscren.Sermovie.mkv
