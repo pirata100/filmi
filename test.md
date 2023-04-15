@@ -15,5 +15,5 @@ https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 https://streamer103.neterra.tv/tiankov-orient/live.m3u8
 #EXTINF:0 Travel TV 
 https://streamer103.neterra.tv/travel/live.m3u8
-#EXTINF:0 CLICK/Щрак 
-http://djzed.data.bg/3GP%20FILMS/Click.3gp
+#EXTINF:0 Tom and Jerry 
+http://mediaset.sdasofia.org/animacii%20deca/Tom%20and%20Jerrys%20greatest%20chases.avi
