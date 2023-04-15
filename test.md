@@ -15,5 +15,5 @@ https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 https://streamer103.neterra.tv/tiankov-orient/live.m3u8
 #EXTINF:0 Travel TV 
 https://streamer103.neterra.tv/travel/live.m3u8
-#EXTINF:0 rio
+#EXTINF:0 Rio
 http://mediaset.sdasofia.org/animacii%20deca/65.Disney.Animation.With.BG.Audio/2011%20Rio/lycan-rio.avi
