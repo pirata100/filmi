@@ -18,4 +18,4 @@ https://streamer103.neterra.tv/travel/live.m3u8
 #EXTINF:0 Rio
 http://mediaset.sdasofia.org/animacii%20deca/65.Disney.Animation.With.BG.Audio/2011%20Rio/lycan-rio.avi
 #EXTINF:0 FILM TEST 
-https://dl3.3rver.org/hex/film/en/1400/05/10.Days.With.Dad.2020.480p.Farsi.Subbed.mp4
+https://dl3.3rver.org/cdn2/06/film/2009/avatar/Avatar.2009.EXTENDED.720p.mkv
