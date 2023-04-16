@@ -15,7 +15,6 @@ https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 https://streamer103.neterra.tv/tiankov-orient/live.m3u8
 #EXTINF:0 Travel TV 
 https://streamer103.neterra.tv/travel/live.m3u8
-#EXTINF:0 Hunt Kill
-http://185.223.160.3/Movie/2023/Hunt.Her.Kill.Her.2022/Hunt.Her.Kill.Her.2022.HDCAM.c1nem4.x264-SUNSCREEN.Sermovie.mkv
-#EXTINF:0 Jonh Wick 4 
-http://185.223.160.3/Movie/2023/John.Wick.Chapter.4/John.Wick.Chapter.4.2023.HDCAM.x264.Sunscren.Sermovie.mkv
+#EXTINF:0 Ronaldo
+https://drive.google.com/uc?export=download&id=1dQuouH61xXDKeBDkG3zXyMnusLZiKlUH
+
