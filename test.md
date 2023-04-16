@@ -19,4 +19,8 @@ https://srv03.dropload.io/hls2/01/00021/90pkc2mqiqzj_h/master.m3u8?t=PNm6yBpL4ev
 https://cdn029.sh-content.com/hls2/01/00499/lmllfxgs2vrm_x/master.m3u8?t=EXJXmfDuC8F2jlbepqkxbRut8HlPrztRjj-UVlP5iv8&s=1681662048&e=129600&f=2496041&srv=sto007&i=0.0&sp=500&p1=sto007&p2=sto007
 #EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2023-04/thumbs/1681407981_3.jpg", Rogue / Ловец (2007)
 https://lmgywxwzeiub.sh-content.com/hls2/01/00455/38mfpcr5v26a_x/master.m3u8?t=wVRDVGoJyvqiGSrYuJwtk-CyQbH5NFiPinkNUgM2zj8&s=1681662271&e=129600&f=2279649&srv=skqbdlmufair&i=0.0&sp=500&p1=skqbdlmufair&p2=skqbdlmufair
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2023-04/thumbs/3.jpg", Hustle / Баскетболна звезда (2022)
+https://cdn005.sh-content.com/hls2/01/00314/zodfr108abwb_x/master.m3u8?t=ubfxKlk6VRHxOTqmHLygM2654HTNaRfBRrogVgpveeI&s=1681662535&e=129600&f=1573592&srv=zpgrustgipnk&i=0.0&sp=500&p1=zpgrustgipnk&p2=zpgrustgipnk\
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2023-04/thumbs/1681025832_4.jpg", Assassin / Наемен убиец (2023)
+https://dteiubbg.sh-content.com/hls2/01/00382/wpto3mkptt20_x/index-v1-a1.m3u8?t=6tR-AKYKqwA4WuDKi0xZy_3LK4wNqeo0N4oLl7cM9ik&s=1681663841&e=129600&f=1910340&srv=sto008noview&i=0.0&sp=500&p1=sto008noview&p2=sto008noview
 
