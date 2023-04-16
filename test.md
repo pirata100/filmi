@@ -15,3 +15,6 @@ https://cdn029.sh-content.com/hls2/01/00382/cixj8kesl18n_x/master.m3u8?t=kt-iXAX
 https://cdn042.sh-content.com/hls2/01/00359/9uanoy0mcc8x_x/index-v1-a1.m3u8?t=sdqkQ2uowGUt9CAsl8L8wWoX_I0uGNbK9CZSW72FpUA&s=1681653681&e=129600&f=1797816&srv=sto004noview&i=0.0&sp=500&p1=sto004noview&p2=sto004noview
 #EXTINF:0 tvg-logo="https://zamunda-net.com/wp-content/uploads/2019/08/avatar-2-2022-3.jpg",  Avatar: The Way of Water / Аватар: Природата на водата (2022)
 https://srv03.dropload.io/hls2/01/00021/90pkc2mqiqzj_h/master.m3u8?t=PNm6yBpL4evrSeOcwVwywZekiN6hMO4eNFx8ALDdi9E&s=1681654321&e=21600&f=107314&srv=srv01&i=0.0&sp=0&p1=srv01&p2=srv01
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2023-04/thumbs/1681646364_1.jpg", Blade Runner 2049 / Блейд Рънър 2049 (2017) BG AUDIO
+https://cdn029.sh-content.com/hls2/01/00499/lmllfxgs2vrm_x/master.m3u8?t=EXJXmfDuC8F2jlbepqkxbRut8HlPrztRjj-UVlP5iv8&s=1681662048&e=129600&f=2496041&srv=sto007&i=0.0&sp=500&p1=sto007&p2=sto007
+
