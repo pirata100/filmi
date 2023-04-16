@@ -17,4 +17,6 @@ https://cdn042.sh-content.com/hls2/01/00359/9uanoy0mcc8x_x/index-v1-a1.m3u8?t=sd
 https://srv03.dropload.io/hls2/01/00021/90pkc2mqiqzj_h/master.m3u8?t=PNm6yBpL4evrSeOcwVwywZekiN6hMO4eNFx8ALDdi9E&s=1681654321&e=21600&f=107314&srv=srv01&i=0.0&sp=0&p1=srv01&p2=srv01
 #EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2023-04/thumbs/1681646364_1.jpg", Blade Runner 2049 / Блейд Рънър 2049 (2017) BG AUDIO
 https://cdn029.sh-content.com/hls2/01/00499/lmllfxgs2vrm_x/master.m3u8?t=EXJXmfDuC8F2jlbepqkxbRut8HlPrztRjj-UVlP5iv8&s=1681662048&e=129600&f=2496041&srv=sto007&i=0.0&sp=500&p1=sto007&p2=sto007
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2023-04/thumbs/1681407981_3.jpg", Rogue / Ловец (2007)
+https://lmgywxwzeiub.sh-content.com/hls2/01/00455/38mfpcr5v26a_x/master.m3u8?t=wVRDVGoJyvqiGSrYuJwtk-CyQbH5NFiPinkNUgM2zj8&s=1681662271&e=129600&f=2279649&srv=skqbdlmufair&i=0.0&sp=500&p1=skqbdlmufair&p2=skqbdlmufair
 
