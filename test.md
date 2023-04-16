@@ -9,3 +9,5 @@ https://srv02.dropload.io/hls2/01/00026/430o62pc51xq_h/index-v1-a1.m3u8?t=uSYU4t
 https://srv03.dropload.io/hls2/01/00026/h7ien20br433_h/index-v1-a1.m3u8?t=z7eyh2wcdMehOLJjO4CiClTRl3xCYcBDdXdMoFec-CM&s=1681651184&e=21600&f=131812&srv=srv01&i=0.0&sp=0&p1=srv01&p2=srv01
 #EXTINF:0 Богът на гръмотевиците (2020) BG AUDIO
 https://cdn019.sh-content.com/hls2/01/00415/ym3gpoal3ggn_x/master.m3u8?t=fkRZj0wfyr5Tz93dRFtOXf9i04eETaiX_Z65yBsrXuQ&s=1681652874&e=129600&f=2078297&srv=vdyzqyuwfjwm&i=0.0&sp=500&p1=vdyzqyuwfjwm&p2=vdyzqyuwfjwm
+#EXTINF:0 Газова лампа (2023)
+https://cdn029.sh-content.com/hls2/01/00382/cixj8kesl18n_x/master.m3u8?t=kt-iXAXlCGpGxoaqTGx7a_5PPCV1dvOH-OvzS2bWYWo&s=1681653407&e=129600&f=1910302&srv=xjkgcqlynhrl&i=0.0&sp=500&p1=xjkgcqlynhrl&p2=xjkgcqlynhrl
