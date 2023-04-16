@@ -5,3 +5,5 @@ https://drive.google.com/uc?export=download&id=16KJKsNnB-cIYTlX39kgWQ-Ko3yn0KZrd
 https://srv03.dropload.io/hls2/01/00026/11c9ybbjosrf_h/index-v1-a1.m3u8?t=aq8CmH5Cf2Uy3_XiAp7nPFLqbTdHc8maiBrc7pcEg30&s=1681650350&e=21600&f=133922&srv=srv02&i=0.0&sp=0&p1=srv02&p2=srv02
 #EXTINF:0 65 2023 bg sub 
 https://srv02.dropload.io/hls2/01/00026/430o62pc51xq_h/index-v1-a1.m3u8?t=uSYU4tbExcCCIRTAuCZpJOyuIL5rLrmBPl5yBepn58k&s=1681651032&e=21600&f=132067&i=0.0&sp=0
+#EXTINF:0 Скъпа Смалих децата
+https://srv03.dropload.io/hls2/01/00026/h7ien20br433_h/index-v1-a1.m3u8?t=z7eyh2wcdMehOLJjO4CiClTRl3xCYcBDdXdMoFec-CM&s=1681651184&e=21600&f=131812&srv=srv01&i=0.0&sp=0&p1=srv01&p2=srv01
