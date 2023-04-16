@@ -11,4 +11,6 @@ https://srv03.dropload.io/hls2/01/00026/h7ien20br433_h/index-v1-a1.m3u8?t=z7eyh2
 https://cdn019.sh-content.com/hls2/01/00415/ym3gpoal3ggn_x/master.m3u8?t=fkRZj0wfyr5Tz93dRFtOXf9i04eETaiX_Z65yBsrXuQ&s=1681652874&e=129600&f=2078297&srv=vdyzqyuwfjwm&i=0.0&sp=500&p1=vdyzqyuwfjwm&p2=vdyzqyuwfjwm
 #EXTINF:0 Газова лампа (2023)
 https://cdn029.sh-content.com/hls2/01/00382/cixj8kesl18n_x/master.m3u8?t=kt-iXAXlCGpGxoaqTGx7a_5PPCV1dvOH-OvzS2bWYWo&s=1681653407&e=129600&f=1910302&srv=xjkgcqlynhrl&i=0.0&sp=500&p1=xjkgcqlynhrl&p2=xjkgcqlynhrl
+#EXTINF:0 Едно българско лято (1994) 
+https://cdn042.sh-content.com/hls2/01/00359/9uanoy0mcc8x_x/index-v1-a1.m3u8?t=sdqkQ2uowGUt9CAsl8L8wWoX_I0uGNbK9CZSW72FpUA&s=1681653681&e=129600&f=1797816&srv=sto004noview&i=0.0&sp=500&p1=sto004noview&p2=sto004noview
 
