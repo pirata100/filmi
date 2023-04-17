@@ -25,5 +25,9 @@ https://cdn005.sh-content.com/hls2/01/00314/zodfr108abwb_x/master.m3u8?t=ubfxKlk
 https://dteiubbg.sh-content.com/hls2/01/00382/wpto3mkptt20_x/index-v1-a1.m3u8?t=6tR-AKYKqwA4WuDKi0xZy_3LK4wNqeo0N4oLl7cM9ik&s=1681663841&e=129600&f=1910340&srv=sto008noview&i=0.0&sp=500&p1=sto008noview&p2=sto008noview
 #EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2023-03/thumbs/1679466420_1.jpg", Cocaine Bear / Кокаиновата мечка (2023)
 https://cdn043.sh-content.com/hls2/01/00250/ztklkus537ve_x/master.m3u8?t=6E55VMH_kYVRusigcKR4rDWJknKJGHyE7liIhHJQky4&s=1681683767&e=129600&f=1254622&srv=ysytvxidnrto&i=0.0&sp=500&p1=ysytvxidnrto&p2=ysytvxidnrto
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2023-04/thumbs/1680897035_1.png", Shazam! Fury of the Gods / Шазам: Яростта на боговете (2023)
+https://qsetnqsw.sh-content.com/hls2/01/00360/3j3g4pnup8uf_x/index-v1-a1.m3u8?t=zkPwQCkerQDuZudjGIlL2z0bra3lgDIV6eT_v8o5guc&s=1681725463&e=129600&f=1801514&srv=sto006noview&i=0.0&sp=500&p1=sto006noview&p2=sto006noview
+
+
 
 
