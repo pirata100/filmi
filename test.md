@@ -95,7 +95,8 @@ https://delivery-node-aram.voe-network.net/engine/hls2/01/08750/bo6rd1564rtr_n/m
 https://delivery-node-houd.voe-network.net/engine/hls2/01/08670/7a8m4cem7znu_n/master.m3u8?t=IBiV7glj_xeVFydNtGxmRQ0iboHYbg9Y1f0PlevoA7s&s=1681738334&e=14400&f=43350848&node=delivery-node-houd.voe-network.net&i=95.168&sp=4500&asn=12829
 #EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2023-01/thumbs/1673210409_4.jpg", Snow Dogs / Снежни кучета (2002) BG AUDIO
 https://delivery-node-xblb46x8gcosq8o8.voe-network.net/engine/hls2-c/01/08606/4uyqiln9iriu_n/master.m3u8?t=b4H-nzGXle_xYnNYiQJdHzEprmy6LCXfs2qMiEv3-Zg&s=1681738485&e=14400&f=43032040&node=delivery-node-wfy1ssu9pftrhkpl.voe-network.net&i=95.168&sp=4500&asn=12829
-#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2022-11/thumbs/4.png", Black Adam / Черния Адам (2022)
-https://delivery-node-whh8pllqgmrm5zzi.voe-network.net/engine/hls2-c/01/08416/ovdmv4amhog4_n/master.m3u8?t=xz5cvfmWLhUTiCAjQrYa0npUFGqtDGeqh-Msx2XSybw&s=1681738720&e=14400&f=42082363&node=delivery-node-leila.voe-network.net&i=95.168&sp=4500&asn=12829
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2022-11/thumbs/4.png", 65 
+https://download2392.mediafire.com/x2p0846b8vegcu5oP6nDDbLHJWgYAmP93QY_YA_SWviXDSCIgxqSsIyIcbor3nNy46X6nFaZY1GgbsI_LyDDPzos-Xpx/q1m4s2hd15exqsz/65.mp4
+
 
 
