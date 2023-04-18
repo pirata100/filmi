@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:0 mumiqta
-https://www.mediafire.com/file/ko84hi2ea4h39j5/Mummies.2023.WEBRip%252CXviD.BGAUDiO-SiSO.avi/file?dkey=jfaj16o19jy&r=1941
-#EXTINF:0 Аватар
-https://mega.nz/file/2VYhACST#TrSrVZk3X-eUaYSL0i4Z6pJeS0zzSVSa9vSRrFO72Ic
+https://download1529.mediafire.com/ngwrs29u8gggxyBxe2PzHFxSGmDiYD_s2R2CHSFFWh4UbPopbFuq0ONg1HoSsIlu6th8Z_e3Z3OADhwY-66kbmJttK_m/ko84hi2ea4h39j5/Mummies.2023.WEBRip%2CXviD.BGAUDiO-SiSO.avi
+
+
