@@ -1,19 +1,3 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ONo1ZGKvv1b8aqEslEjQLOZRyV.jpg", Баща в излишък
-https://moon-200ge-streaming-server.dvsdvsdvsdva.com/hls2/01/03251/nh42gs4d8q63_h/master.m3u8?t=B0lRallD_QOskD1h8gwEAf2lT0X3-ukzFQRPWAIgRmI&s=1681940564&e=43200&f=16255600&srv=30&asn=12829&sp=1000
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/130H1gap9lFfiTF9iDrqNIkFvC9.jpg", Човек на име Ото 
-https://moon-200ge-streaming-server.dvsdvsdvsdva.com/hls2/01/03550/clrc9txpms3y_h/master.m3u8?t=TIpNZycl27dTn0ROnEqE6HgP1I28zU7Dw7HqX5MVxxQ&s=1681934801&e=43200&f=17753634&srv=05&asn=12829&sp=1000
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1WvNhoackad1QiAGRgjJCQ1Trj.jpg",  Вторият 
-https://moon-200ge-streaming-server.dvsdvsdvsdva.com/hls2/01/03554/56syiqji4ol1_h/master.m3u8?t=Cj7RxGqUGyCKUaYNJ5E2dYWPV-uBdsKpGa_T_moMMQk&s=1681940300&e=43200&f=17774327&srv=18&asn=12829&sp=1000
-#EXTINF:0  Таласъми ООД 
-https://srv02.dropload.io/dham6zciortua6wyzdcj637phmtxd4mno3qdnu2k4f5amdcdbogeqo5tqz7q/v.mp4
-
-
-
-
-
-
-
-
-
-
+#EXTINF:0 65 2023
+https://dropload.io/430o62pc51xq
