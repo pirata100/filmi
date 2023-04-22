@@ -7,9 +7,10 @@ https://dropload.io/11c9ybbjosrf
 https://dropload.io/e/pmqxuyenyhib?srv02.dropload.io/i/01/00026/pmqxuyenyhib
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/shrek/images/8/85/Shrek_2001_poster.jpg/revision/latest?cb=20201020072731", Shrek/Шрек 2001 (БГ аудио)
 https://dropload.io/7r7hje4wk61w
-
-
-
+#EXTINF:0 tvg-logo="https://www.cinefish.bg/data/movies_images/231/p_231929.jpg", Скъпа смалих децата БГ аудио 1989
+https://dropload.io/h7ien20br433
+#EXTINF:0 tvg-logo="https://filmi123.club/storage/2021/08/skapa-ugolemih-deteto-62708-poster.jpg", Скъпа уголемих детето бг аудио 1992
+https://dropload.io/psa18fsatpeu
 
 
 
