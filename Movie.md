@@ -17,6 +17,7 @@ https://dropload.io/9xy9ibra8djl
 https://dropload.io/clwdfp2izevp
 #EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2022-01/thumbs/1643394812_11.jpg",Avatar / Аватар (2009) BG AUDIO
 https://dropload.io/sqwykqrjkudb
+#EXTINF:0 tvg-logo=https://filmisub.cc/wp-content/uploads/2023/04/jung-e.jpg", Jung E/Джонг И (2023) 
 
 
 
