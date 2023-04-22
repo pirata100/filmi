@@ -21,6 +21,13 @@ https://dropload.io/sqwykqrjkudb
 https://dropload.io/apm2q7hh8ocg
 #EXTINF:0 tvg-logo="https://www.cinefish.bg/data/movies_images/257/p_257195.jpg",Daddy's Home 2 / Баща в излишък 2 (2017) BG AUDIO
 https://dropload.io/epuakpisoy8a
+#EXTINF:0 tvg-logo="https://zamunda-net.com/wp-content/uploads/2019/08/avatar-2-2022-3.jpg", Аватар 2: Природата на водата / Avatar: The Way of Water (2022)
+https://dropload.io/36hg8g7rvnxr
+
+
+
+
+
 
 
 
