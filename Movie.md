@@ -11,6 +11,11 @@ https://dropload.io/7r7hje4wk61w
 https://dropload.io/h7ien20br433
 #EXTINF:0 tvg-logo="https://filmi123.club/storage/2021/08/skapa-ugolemih-deteto-62708-poster.jpg", Скъпа уголемих детето бг аудио 1992
 https://dropload.io/psa18fsatpeu
+#EXTINF:0 tvg-logo="https://lentafilms.bg/wp-content/uploads/2021/06/BS_Films_WOM_poster_I_main_WEB_500x726_px-500x726.jpg", Човек на гнева / Wrath of Man (2021)
+https://dropload.io/9xy9ibra8djl
+
+
+
 
 
 
