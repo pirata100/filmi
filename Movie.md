@@ -19,7 +19,8 @@ https://dropload.io/clwdfp2izevp
 https://dropload.io/sqwykqrjkudb
 #EXTINF:0 tvg-logo=https://filmisub.cc/wp-content/uploads/2023/04/jung-e.jpg", Jung E/Джонг И (2023) 
 https://dropload.io/apm2q7hh8ocg
-
+#EXTINF:0 tvg-logo="https://www.cinefish.bg/data/movies_images/257/p_257195.jpg",Daddy's Home 2 / Баща в излишък 2 (2017) BG AUDIO
+https://dropload.io/epuakpisoy8a
 
 
 
