@@ -5,8 +5,8 @@ https://dropload.io/430o62pc51xq
 https://dropload.io/11c9ybbjosrf
 #EXTINF:0, tvg-logo="https://zamunda-net.com/wp-content/uploads/2022/11/mummies-2023-bg-poster.jpg",Mummies / Приключението на мумиите (2023) 
 https://dropload.io/e/pmqxuyenyhib?srv02.dropload.io/i/01/00026/pmqxuyenyhib
-
-
+#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/shrek/images/8/85/Shrek_2001_poster.jpg/revision/latest?cb=20201020072731", Shrek/Шрек 2001 (БГ аудио)
+https://dropload.io/7r7hje4wk61w
 
 
 
