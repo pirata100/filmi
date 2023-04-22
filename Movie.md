@@ -33,6 +33,8 @@ https://dropload.io/ptpbjterz3nd
 https://dropload.io/m7h8ku5wfkfs
 #EXTINF: tvg-logo="https://cdn.ozone.bg/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/h/8e1c4822e4b361367bb452055563602b/chengeta-bez-znachki-dvd-31.jpg", Ченгета без значки (2003) Бг аудио
 https://dropload.io/o3uosgkys2ok
+#EXTINF:0 tvg-logo="https://cdn.ozone.bg/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/k/o/b781542db4208e8dfbba73b39c96d98f/koy-natopi-zaeka-rodzhar-dvd-31.jpg", Кой натопи Заека Роджър 1998
+https://dropload.io/258ul33foor6
 
 
 
