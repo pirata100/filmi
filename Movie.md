@@ -25,6 +25,16 @@ https://dropload.io/epuakpisoy8a
 https://dropload.io/36hg8g7rvnxr
 #EXTINF:0 tvg-logo="https://kino77.bg/wp-content/uploads/2023/01/p_319734.jpg", Knock at the Cabin / Почукването (2023)
 https://dropload.io/rf2qjvnoyacv
+#EXTINF:0 tvg-logo="https://egmontbulgaria.com/media/cache/fb_image_thumb/product-images/91/5/9789542704584.jpg?1434524431", How to Train Your Dragon / Как да си дресираш дракон (2010) BG AUDIO
+https://dropload.io/wkhbx8det5uj
+
+
+
+
+
+
+
+
 
 
 
