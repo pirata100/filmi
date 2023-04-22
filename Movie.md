@@ -23,7 +23,8 @@ https://dropload.io/apm2q7hh8ocg
 https://dropload.io/epuakpisoy8a
 #EXTINF:0 tvg-logo="https://zamunda-net.com/wp-content/uploads/2019/08/avatar-2-2022-3.jpg", Аватар 2: Природата на водата / Avatar: The Way of Water (2022)
 https://dropload.io/36hg8g7rvnxr
-
+#EXTINF:0 tvg-logo="https://kino77.bg/wp-content/uploads/2023/01/p_319734.jpg", Knock at the Cabin / Почукването (2023)
+https://dropload.io/rf2qjvnoyacv
 
 
 
