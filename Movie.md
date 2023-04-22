@@ -15,8 +15,8 @@ https://dropload.io/psa18fsatpeu
 https://dropload.io/9xy9ibra8djl
 #EXTINF:0 tvg-logo="https://egmontbulgaria.com/media/cache/fb_image_thumb/product-images/14/24/Tangled_Cover_Poland_NEW-1%20front%20copy1653610503.1575.jpg.jpeg?1653610503", Рапунцел и разбойникът (2010) Бг Аудио
 https://dropload.io/clwdfp2izevp
-
-
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2022-01/thumbs/1643394812_11.jpg",Avatar / Аватар (2009) BG AUDIO
+https://dropload.io/sqwykqrjkudb
 
 
 
