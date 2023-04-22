@@ -27,7 +27,8 @@ https://dropload.io/36hg8g7rvnxr
 https://dropload.io/rf2qjvnoyacv
 #EXTINF:0 tvg-logo="https://egmontbulgaria.com/media/cache/fb_image_thumb/product-images/91/5/9789542704584.jpg?1434524431", How to Train Your Dragon / Как да си дресираш дракон (2010) BG AUDIO
 https://dropload.io/wkhbx8det5uj
-
+#EXTINF:0 tvg-logo="https://filmitena.com/img/Movie/MidBig/13926_MidBig_20211004112216.webp", Мъртвите не умират (2019) Бг Аудио
+https://dropload.io/ptpbjterz3nd
 
 
 
