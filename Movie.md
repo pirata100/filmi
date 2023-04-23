@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://kinopodzvezdite.com/images/2/16b14d843e88ce0726182bf33da22dc7/p-312087-479.jpg", Бай Иван филмът 2021 
+https://dropload.io/s6afn90z34x8
 #EXTINF:0, tvg-logo="https://cdn.playtube.tv/upload/photos/2023/01/dCx2SytXXFQH9GwjBdUl_29_effd2deded956ab51cd4258fb54cbcca_image.jpg", Смелият Дядо Коледа (1996) БГ Аудио
 https://dropload.io/842ysooie06g
 #EXTINF:0, tvg-logo="https://zamunda-net.com/wp-content/uploads/2021/12/65-2023.jpg", 65 2023
