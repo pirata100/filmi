@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0, tvg-logo="https://cdn.playtube.tv/upload/photos/2023/01/dCx2SytXXFQH9GwjBdUl_29_effd2deded956ab51cd4258fb54cbcca_image.jpg", Смелият Дядо Коледа (1996) БГ Аудио
+https://dropload.io/842ysooie06g
 #EXTINF:0, tvg-logo="https://zamunda-net.com/wp-content/uploads/2021/12/65-2023.jpg", 65 2023
 https://dropload.io/430o62pc51xq
 #EXTINF:0, tvg-logo=https://cdn.ozone.bg/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/a/69f000209fe768e8a85cb5eb05669ef5/talasami-ood-dvd-31.jpg", Таласъми ООД
