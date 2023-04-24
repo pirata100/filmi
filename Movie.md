@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/oNrh4qp6qY3TAZA1riJybYLJzAm.jpg", Despicable Me / Аз, проклетникът (2010) BG AUDIO
-Despicable Me / Аз, проклетникът (2010) BG AUDIO
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/oNrh4qp6qY3TAZA1riJybYLJzAm.jpg", Despicable Me / Аз проклетникът (2010) BG AUDIO
+https://dropload.io/npqe2prnhi3o
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dubbing9585/images/c/ca/Warriors_of_Future.png/revision/latest?cb=20230103102024", Warriors of Future / Ming yat zin gei / Воини на бъдещето (2022)
 https://dropload.io/461zye19wdan
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGMzYWZlYmYtNTcyMC00ZGVjLThjN2ItMjY4MjkwN2NlMjYwXkEyXkFqcGdeQXVyOTU0NjY1MDM@._V1_FMjpg_UX1000_.jpg", Ghosted / Призрак (2023)
