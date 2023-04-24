@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dubbing9585/images/c/ca/Warriors_of_Future.png/revision/latest?cb=20230103102024", Warriors of Future / Ming yat zin gei / Воини на бъдещето (2022)
+https://dropload.io/461zye19wdan
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGMzYWZlYmYtNTcyMC00ZGVjLThjN2ItMjY4MjkwN2NlMjYwXkEyXkFqcGdeQXVyOTU0NjY1MDM@._V1_FMjpg_UX1000_.jpg", Ghosted / Призрак (2023)
 https://dropload.io/9pqag9p3yh8b
 #EXTINF:0 tvg-logo="https://kinopodzvezdite.com/images/2/16b14d843e88ce0726182bf33da22dc7/p-312087-479.jpg", Бай Иван филмът 2021 
