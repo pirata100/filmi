@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/2-_vQZMIMBdQxmIQpotepexfiNN1fb0NsnXGB2V0Hu5zsjxr9t-LU1mkwPcxmbv1JKZL", Hatchet / Брадвата (2006)
+https://dropload.io/tswvh4t04sbq
 #EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2021-04/thumbs/1618933543_518jo3xlf8l__ac_.jpg", Venom / Венъм (2018)
 https://dropload.io/woqoblek328n
 #EXTINF:0 tvg-logo="https://www.cinefish.bg/data/movies_images/27/p_27311.jpg", The Mask / Маската (1994) BG AUDIO
