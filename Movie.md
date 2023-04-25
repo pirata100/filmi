@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://filmitena.com/img/Movie/MidBig/2157_MidBig_20211004114127.webp", Shrek 2 / Шрек 2 2004
+https://dropload.io/5cw1mufsmyep
+#EXTINF:0 tvg-logo="https://filmitena.com/img/Movie/MidBig/7485_MidBig_20211004112942.webp", Skiptrace / Дим да ни няма 2016
+https://dropload.io/yvlif74r6bbg
+#EXTINF:0 tvg-logo="https://filmitena.com/img/Movie/MidBig/12659_MidBig_20211004112238.webp",The Lion King / Цар Лъв 2019
+https://dropload.io/7n5d3i8qri2h
+#EXTINF:0 tvg-logo="https://filmitena.com/mov/5350/the-little-rascals-malkite-razbojnici", The Little Rascals / Малките разбойници 1994
+https://dropload.io/dkc284nwf1gl
 #EXTINF:0 tvg-logo="https://p2.novo5.com/a/l/aladdin-poster-5063-360x525.jpg", Aladdin / Аладин (2019) BG AUDIO
 https://dropload.io/wyiwq94fhw3x
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Mulan_%282020_film%29_poster.jpg", Мулан (2020) Бг Аудио
