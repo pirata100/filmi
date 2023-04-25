@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://p2.novo5.com/a/l/aladdin-poster-5063-360x525.jpg", Aladdin / Аладин (2019) BG AUDIO
+https://dropload.io/wyiwq94fhw3x
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Mulan_%282020_film%29_poster.jpg", Мулан (2020) Бг Аудио
 https://dropload.io/lx2v2owruaop
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/oNrh4qp6qY3TAZA1riJybYLJzAm.jpg", Despicable Me / Аз проклетникът (2010) BG AUDIO
