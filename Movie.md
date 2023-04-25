@@ -5,7 +5,7 @@ https://dropload.io/5cw1mufsmyep
 https://dropload.io/yvlif74r6bbg
 #EXTINF:0 tvg-logo="https://filmitena.com/img/Movie/MidBig/12659_MidBig_20211004112238.webp",The Lion King / Цар Лъв 2019
 https://dropload.io/7n5d3i8qri2h
-#EXTINF:0 tvg-logo="https://filmitena.com/mov/5350/the-little-rascals-malkite-razbojnici", The Little Rascals / Малките разбойници 1994
+#EXTINF:0 tvg-logo="https://cdn-0.tvprofil.com/img/covers/img134819-tv476769.jpg", The  Little Rascals / Малките разбойници 1994
 https://dropload.io/dkc284nwf1gl
 #EXTINF:0 tvg-logo="https://p2.novo5.com/a/l/aladdin-poster-5063-360x525.jpg", Aladdin / Аладин (2019) BG AUDIO
 https://dropload.io/wyiwq94fhw3x
