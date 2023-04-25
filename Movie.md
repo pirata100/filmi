@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2021-04/thumbs/1618933543_518jo3xlf8l__ac_.jpg", Venom / Венъм (2018)
+https://dropload.io/woqoblek328n
+#EXTINF:0 tvg-logo="https://www.cinefish.bg/data/movies_images/27/p_27311.jpg", The Mask / Маската (1994) BG AUDIO
+https://dropload.io/p1nqg0t5whdm
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_FMjpg_UX1000_.jpg", Moana BG AUDIO / Смелата Ваяна БГ АУДИО (2016)
+https://dropload.io/cfdphethoro0
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_FMjpg_UX1000_.jpg", John Wick / Джон Уик (БГ Аудио)
+https://dropload.io/h6nwqyt6zgc0
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2021-11/thumbs/1637845451_1126201-b.jpg", Home Alone / Сам вкъщи (1990) BG AUDIO
+https://dropload.io/hkf1497qn7nj
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2023-02/thumbs/4.jpg", Shrek the Halls / Блатната Коледа на Шрек (2007) BG AUDIO
+https://dropload.io/pm6abahfbi6r
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2023-02/thumbs/5.jpg", Shrek Forever After / Шрек завинаги (2010) BG AUDIO
+https://dropload.io/35tr53fsbj2p
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2023-02/thumbs/1675773145_3.jpg",Shrek the Third / Шрек Трети (2007) BG AUDIO
+https://dropload.io/i6wrrzmko3ke
 #EXTINF:0 tvg-logo="https://filmitena.com/img/Movie/MidBig/2157_MidBig_20211004114127.webp", Shrek 2 / Шрек 2 2004
 https://dropload.io/5cw1mufsmyep
 #EXTINF:0 tvg-logo="https://filmitena.com/img/Movie/MidBig/7485_MidBig_20211004112942.webp", Skiptrace / Дим да ни няма 2016
