@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2023-03/thumbs/1678201111_1.jpg",The Whale / Китът (2022)
+https://dropload.io/pglj308kq8ar
 #EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2023-02/thumbs/1676463400.jpg",Family Camp / Семеен лагер (2022)
 https://dropload.io/9a2qq6kkao3u
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/2-_vQZMIMBdQxmIQpotepexfiNN1fb0NsnXGB2V0Hu5zsjxr9t-LU1mkwPcxmbv1JKZL", Hatchet / Брадвата (2006)
@@ -93,7 +95,8 @@ https://dropload.io/nj2usqrn9bar
 https://dropload.io/84uu091hgasq
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/8/81/The_Flintstones_in_Viva_Rock_Vegas_-_DVD_cover_%28Bulgarian%29.jpg/revision/latest?cb=20230401022521",THE FLINTSTONES 2 / СЕМЕЙСТВО ФЛИНТСТОУН 2 (2000)
 https://dropload.io/8wt2amjhyqot
-#EXTINF:0 tvg-logo="
+#EXTINF:0 tvg-logo="https://cdn.ozone.bg/media/catalog/product/cache/1/image/400x498/a4e40ebdc3e371adff845072e1c73f37/s/e/6e777b38a98b9a78a3a90f4025f0fcd2/semeystvo-flintstoun-dvd-31.jpg", The Flintstones / Семейство Флинтстоун (1994) BG AUDIO
+https://dropload.io/6ghyruj77rk2
 #EXTINF:0 tvg-logo="
 #EXTINF:0 tvg-logo="
 #EXTINF:0 tvg-logo="
