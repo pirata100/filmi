@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2023-02/thumbs/1676463400.jpg",Family Camp / Семеен лагер (2022)
+https://dropload.io/9a2qq6kkao3u
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/2-_vQZMIMBdQxmIQpotepexfiNN1fb0NsnXGB2V0Hu5zsjxr9t-LU1mkwPcxmbv1JKZL", Hatchet / Брадвата (2006)
 https://dropload.io/tswvh4t04sbq
 #EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2021-04/thumbs/1618933543_518jo3xlf8l__ac_.jpg", Venom / Венъм (2018)
@@ -77,6 +79,24 @@ https://dropload.io/o3uosgkys2ok
 https://dropload.io/258ul33foor6
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-e6FkjiCDB-4/Vfwj7958BRI/AAAAAAAAMvE/RXAWbsByLF8/s640/popeye%2B1980.jpg", Попай моряка филм 1980
 https://dropload.io/pxsvbt98ufdw
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2022-03/thumbs/1648548335_13.jpg", Juzni vetar / Южен вятър / South Wind (2018)
+https://dropload.io/6gdi0z8dokom
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2022-08/thumbs/1661606436_10.jpg", Hatchet II / Брадвата 2 (2010)
+https://dropload.io/4to1sbh9hcmx
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2022-03/thumbs/1648548211_12.jpg",Juzni vetar 2: Ubrzanje / Южен Вятър 2: Ускорение / South Wind 2: Speed Up (2021)
+https://dropload.io/s9o51dmfmanr
+#EXTINF:0 tvg-logo="https://www.cinefish.bg/data/movies_images/4/p_4052.jpg", Големият заговор (2004) Бг Аудио
+https://dropload.io/b3oylv651mq3
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2022-07/thumbs/19.jpg",D-TOX / Противоотрова (2002) BG AUDIO
+https://dropload.io/nj2usqrn9bar
+#EXTINF:0 tvg-logo="https://www.cinefish.bg/data/movies_images/0/p_685.jpg", Таткова градина (2003) Бг Аудио
+https://dropload.io/84uu091hgasq
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/8/81/The_Flintstones_in_Viva_Rock_Vegas_-_DVD_cover_%28Bulgarian%29.jpg/revision/latest?cb=20230401022521",THE FLINTSTONES 2 / СЕМЕЙСТВО ФЛИНТСТОУН 2 (2000)
+https://dropload.io/8wt2amjhyqot
+#EXTINF:0 tvg-logo="
+#EXTINF:0 tvg-logo="
+#EXTINF:0 tvg-logo="
+#EXTINF:0 tvg-logo="
 
 
 
