@@ -99,7 +99,8 @@ https://dropload.io/84uu091hgasq
 https://dropload.io/8wt2amjhyqot
 #EXTINF:0 tvg-logo="https://cdn.ozone.bg/media/catalog/product/cache/1/image/400x498/a4e40ebdc3e371adff845072e1c73f37/s/e/6e777b38a98b9a78a3a90f4025f0fcd2/semeystvo-flintstoun-dvd-31.jpg", The Flintstones / Семейство Флинтстоун (1994) BG AUDIO
 https://dropload.io/6ghyruj77rk2
-#EXTINF:0 tvg-logo="
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/Spider-Man2002Poster.jpg", Spider-Man / Спайдър-мен (2002)
+https://dropload.io/37vja2lb949q
 #EXTINF:0 tvg-logo="
 #EXTINF:0 tvg-logo="
 
