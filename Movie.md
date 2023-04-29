@@ -103,7 +103,8 @@ https://dropload.io/6ghyruj77rk2
 https://dropload.io/37vja2lb949q
 #EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2012-06/thumbs/1339778389_spider_man_2_poster.png", Spider-Man 2 / Спайдър-мен 2 (2004) BG AUDIO
 https://dropload.io/xz69m6zl5750
-#EXTINF:0 tvg-logo="
+#EXTINF:0 tvg-logo="https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSTnVYNce0mR9weuhktA3KtkI9EJwX48KOjWhW7ZppTC3anet8khysgqAIiI6V-QRyG", Spider-Man 3 / Спайдър-мен 3 (2007) BG AUDIO
+https://dropload.io/t42hic9av0d7
 
 
 
