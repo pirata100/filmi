@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://cdn.ozone.bg/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/m/87a7f4fcb14b8968341a22f56cea7d61/smahnatiyat-profesor-dvd-31.jpg", The.Nutty.Professor.1996 / СМАХНАТИЯ ПРОФЕСОР
+https://dropload.io/wlmkew464jby
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-rtC3Da-4YMo/UgPER6lYXeI/AAAAAAAACZA/As1h44qPHro/s1600/30.+Stop!+Or+My+Mom+Will+Shoot.jpg", STOP! OR MY MOM WILL SHOOT / СПРИ ИЛИ МАМА ЩЕ СТРЕЛЯ (1992)
+https://dropload.io/he8692js0wmb
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2022-01/thumbs/1642677067_12.jpg", Taxi 5 / Такси 5 (2018) BG AUDIO
+https://dropload.io/y0yzgcb2sj5p
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2022-01/thumbs/1642677067_12.jpg", Taxi 4 / Такси 4 (2007) BG AUDIO
+https://dropload.io/kr5sk6o71w6d
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2022-01/thumbs/1642676933_11.jpg", Taxi 3 / Такси 3 (2003) BG AUDIO
+https://dropload.io/ay1izydauwqv
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2022-01/thumbs/1642676797_10.jpg", Taxi 2 / Такси 2 (2000) BG AUDIO
+https://dropload.io/2wvbtfdc69vt
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2015-04/thumbs/1429474238_34hxrh0.jpg", Taxi / Такси 1998 BG AUDIO
+https://dropload.io/ejg4jh0gnrah
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2014-07/thumbs/1405862687_tarzanposter3d.jpg", Tarzan / Тарзан (2013)
+https://dropload.io/5c502c0glf3k
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2023-02/thumbs/1676219780_3.jpg", Teen Wolf The Movie / Тийн вълк: Филмът (2023)
+https://dropload.io/10ddkjim0p39
+#EXTINF:0 tvg-logo="https://filmitena.com/img/Movie/Original/2121_bg.jpg", Уличен боец (1994)
+https://dropload.io/87o1mvoomgh1
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2021-06/thumbs/1623073670_1613534318_3782874.jpg", Aquaman / Аквамен (2018) BG AUDIO
+https://dropload.io/pfa02kt7z449
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2022-05/thumbs/1653996499_15.jpg", Vendetta / Вендета (2022)
+https://dropload.io/t55hz4a5m7ty
+#EXTINF:0 tvg-logo="https://cdn.ozone.bg/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/k/o/2ac55e4cd79bb58e8642004ba466dff7/kotarakat-v-chizmi-dvd-31.jpg", Puss in Boots / Котаракът в чизми (2011) BG AUDIO
+https://dropload.io/kuf2yldgi0f3
 #EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2023-01/thumbs/13.jpg", Rendel / Рендъл (2017)
 https://dropload.io/jxvjwje8wp4e
 #EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2023-03/thumbs/1678201111_1.jpg",The Whale / Китът (2022)
