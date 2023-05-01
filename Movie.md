@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2022-05/thumbs/1653996300_11.png", Mama o papa / Мама или татко (2021)
+https://dropload.io/wxlqv1eswhze
+#EXTINF:0 tvg-logo="https://www.cinefish.bg/data/movies_images/286/p_286430.jpg", Accident Man / Нещастния случай (2018)
+https://dropload.io/nyeh3t4f0fjh
+#EXTINF:0 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEX80WVObkdpmzbijuZ2wCnbnRr3P-wMiBO236Jt-kfNhydddF", Приключенията на робота Ари (2020)
+https://dropload.io/d91s5i3fmtvt
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/9d7k5IkBJDjJiMhHVRXljEsOgrY.jpg", Примат 007 (2022)
+https://dropload.io/5se8pjbt2677
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2021-11/thumbs/1637846182_home_alone_two_ver2.jpg", Home Alone 2: Lost in New York / Сам вкъщи 2: Изгубен в Ню Йорк (1992) BG AUDIO
+https://dropload.io/7sfeto9asf7m
+#EXTINF:0 tvg-logo="https://cdn.ozone.bg/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/a/b606756f534d4dac289554ca494f15f0/sam-vkashti-3-dvd-31.jpg", HOME ALONE 3 / САМ В КЪЩИ 3 (1997)
+https://dropload.io/kv0if55bda67
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-DNUNuZ_59cc/T-4Uisyi7PI/AAAAAAAAi8k/I30VsglZDoo/s1600/Rumble+In+The+Bronx+Poster+by+Ninja.jpg",Rumble in the Bronx / Сблъсък в Бронкс (1995)
+https://dropload.io/vgx4nj4v6hll
 #EXTINF:0 tvg-logo="https://www.kinoarena.com/uploads/media/stenik_movies_image/0001/11/f9db2d98bbf37620b3cb390d3d9745b73ab88f71.jpeg", Семейни кютеци (2019)
 https://dropload.io/7n3qmu84dnaj
 #EXTINF:0 tvg-logo="https://cdn.ozone.bg/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/m/87a7f4fcb14b8968341a22f56cea7d61/smahnatiyat-profesor-dvd-31.jpg", The.Nutty.Professor.1996 / СМАХНАТИЯ ПРОФЕСОР
