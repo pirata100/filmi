@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2022-08/thumbs/5.jpg", Jumanji / Джуманджи (1995) BG AUDIO
+https://dropload.io/r5jt6aorrp2f
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2022-10/thumbs/10.jpg", The Animal / Животното (2001) BG AUDIO
+https://dropload.io/cp2xhhg4bpvo
+#EXTINF:0 tvg-logo="https://www.kinoarena.com/uploads/media/stenik_movies_image/0001/13/fc7b1196ac40d566484198605849f212123f67d6.jpeg", JOKER / ЖОКЕРА (2019) 
+https://dropload.io/i0tbhe16bsyf
+#EXTINF:0 tvg-logo="https://filmitena.com/img/Movie/Original/1995_bg.jpg", Missing in Action / Изчезнал по време на акция (1984) 
+https://dropload.io/ud8yvvw9ck19
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2022-03/thumbs/1647865594_18.jpg", Just My Luck / Лош късмет (2006) BG AUDIO
+https://dropload.io/sp8q70h7s5hl
+#EXTINF:0 tvg-logo="https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/c2d6568f-a70a-4ab9-adaf-7c5fc2795c0c/300x450", Майор Пейн (1995) БГ Аудио
+https://dropload.io/1adysdu6b03o
 #EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2022-05/thumbs/1653996300_11.png", Mama o papa / Мама или татко (2021)
 https://dropload.io/wxlqv1eswhze
 #EXTINF:0 tvg-logo="https://www.cinefish.bg/data/movies_images/286/p_286430.jpg", Accident Man / Нещастния случай (2018)
