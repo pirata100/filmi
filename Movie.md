@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://www.kinoarena.com/uploads/media/stenik_movies_image/0001/11/f9db2d98bbf37620b3cb390d3d9745b73ab88f71.jpeg", Семейни кютеци (2019)
+https://dropload.io/7n3qmu84dnaj
 #EXTINF:0 tvg-logo="https://cdn.ozone.bg/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/m/87a7f4fcb14b8968341a22f56cea7d61/smahnatiyat-profesor-dvd-31.jpg", The.Nutty.Professor.1996 / СМАХНАТИЯ ПРОФЕСОР
 https://dropload.io/wlmkew464jby
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-rtC3Da-4YMo/UgPER6lYXeI/AAAAAAAACZA/As1h44qPHro/s1600/30.+Stop!+Or+My+Mom+Will+Shoot.jpg", STOP! OR MY MOM WILL SHOOT / СПРИ ИЛИ МАМА ЩЕ СТРЕЛЯ (1992)
