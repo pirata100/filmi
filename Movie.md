@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2021-12/thumbs/1639639854_1577651084_1210856.jpg", Daddy's Home 2 / Баща в излишък 2 (2017) BG AUDIO
+https://dropload.io/pr8tgx2awmyy
+#EXTINF:0 tvg-logo="https://filmibg.top/add/imgmovie/4074108460918.jpg", Infinite / Безкрайните (2021)
+https://dropload.io/jbtdg5i3d5gj
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2012-01/thumbs/1326373950_bladetroicata.jpg", Blade: Trinity / Блейд Троица (2004)
+https://dropload.io/a0vdyywjce6g
+#EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2022-05/thumbs/1652016743_12.jpg", Blade 2 / Блейд 2 (2002)
+https://dropload.io/67lgqufu2y9v
+#EXTINF:0 tvg-logo="https://filmi123.club/storage/2020/11/blejd-23365-poster.jpg", Blade / Блейд (1998)
+https://dropload.io/kpcchju07t5f
 #EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2021-07/thumbs/1627576928_1627533265_4150655.jpg", F9: Fast and Furious The Fast Saga / Бързи и яростни 9 (2021)
 https://dropload.io/5chzyzuvbt65
 #EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2022-08/thumbs/5.jpg", Jumanji / Джуманджи (1995) BG AUDIO
