@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/I/A1aqQxt6pvL._AC_UF894,1000_QL80_.jpg",Pixels / Пиксели (БГ Аудио
+https://dropload.io/s14rlwf9mkts
 #EXTINF:0 tvg-logo="https://www.filmifen.com/uploads/posts/2021-12/thumbs/1639639854_1577651084_1210856.jpg", Daddy's Home 2 / Баща в излишък 2 (2017) BG AUDIO
 https://dropload.io/pr8tgx2awmyy
 #EXTINF:0 tvg-logo="https://filmibg.top/add/imgmovie/4074108460918.jpg", Infinite / Безкрайните (2021)
